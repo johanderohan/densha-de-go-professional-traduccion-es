@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/playstation/densha-de-go-professional)**.
+
 Traducción al **español de España** de *Densha de Go! Professional Shiyou*
 (電車でGO! プロフェッショナル仕様, PlayStation, 1999), el simulador de conducción de trenes
 de Taito, que nunca salió de Japón.
